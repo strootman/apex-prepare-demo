@@ -1,0 +1,6 @@
+{
+	"model": "leisure_event_categories",
+	"data": [
+		{ "label": "Spam" }
+	]
+}
